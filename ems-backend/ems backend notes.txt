@@ -1,0 +1,16 @@
+
+
+
+
+1. create a new database in mongoDB compass and create a new collection names as employees
+2. create a new folder ems-backend
+3. create package.json - npm init -y
+4. install express, cors, mongoose - npm i express cors mongoose
+      express - to create backend application / server
+      cors - to connect both frontend and backend ports
+      mongoose - to connect node and mongoDB
+5. create index.js file
+6. create folder services
+7. create a db.js file inside the services folder - for connecting node and mongodb and creating models.
+8. create a new folder named as logic.js inside the services folder - for implementing all the logics
+9. 
